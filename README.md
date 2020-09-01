@@ -1,7 +1,7 @@
 # WBSETAF
 
 We work in the particular setting of argumentation graphs with set of attacking and supporting arguments, i.e. arguments can collectively attack or defend other arguments.
-In this repository, we generalise and implement existing ranking-based semantics ([Euler][1] and [DF-Quad][2]) for this type of graph.
+In this repository, we generalise and implement existing bipolar ranking-based semantics ([Euler][1], [DF-Quad][2] and Sigmoid damped-max based) for this type of graph.
 
 
 ## Content
