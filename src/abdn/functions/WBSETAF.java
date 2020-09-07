@@ -14,8 +14,6 @@ import java.util.HashSet;
 public class WBSETAF {
     public static void main(String[] args)
     {
-//        args = new String[1];
-//        args[0] = "/Users/s01by9/Desktop/AF2.apx";
 
         if(args.length == 1){
 
